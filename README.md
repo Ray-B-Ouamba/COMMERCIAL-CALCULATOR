@@ -1,7 +1,7 @@
 # COMMERCIAL-CALCULATOR
 to facilitate a broad range of mathematical and financial computations essential for successful operations, well-informed choices, and overall business success.    
 
-**PROJECT LINK:**  https://ray-b-ouamba.github.io/COFFEE-CULTURE-MENU/
+**PROJECT LINK:**  https://ray-b-ouamba.github.io/COMMERCIAL-CALCULATOR/
 
 **TECH USED:** 
 HTML, CSS.
