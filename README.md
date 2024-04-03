@@ -4,7 +4,8 @@ to facilitate a broad range of mathematical and financial computations essential
 **PROJECT LINK:**  https://ray-b-ouamba.github.io/COMMERCIAL-CALCULATOR/
 
 **TECH USED:** 
-HTML, CSS.
+* HTML,
+* CSS.
 
 ## OPTIMIZATIONS
 Create a Coffe-Culture-Menu with a background changing image. 
