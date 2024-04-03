@@ -9,7 +9,15 @@ to facilitate a broad range of mathematical and financial computations essential
 * JavaScript
 
 ## OPTIMIZATIONS
-Create a Coffe-Culture-Menu with a background changing image. 
+When you perform an operation with a very large number (3500.000.000.000), you won't see all the numbers appear on the display screen. The power function should be added to solve this problem. 
+
+*limit the number of digits that appear on the screen to 15
+*reduce text size
+*enlarge the text area so that it can contain 15 digits.
+*Numbers should start from the right and go to the left.
+* The cursor should appear on the screen each time you type a number.
+
+Translated with DeepL.com (free version)
 
 ## LESSONS LEARNED:
 * Master the fondamentals of HTML CSS and JavaSCript.
