@@ -5,7 +5,8 @@ to facilitate a broad range of mathematical and financial computations essential
 
 **TECH USED:** 
 * HTML,
-* CSS.
+* CSS
+* JavaScript
 
 ## OPTIMIZATIONS
 Create a Coffe-Culture-Menu with a background changing image. 
