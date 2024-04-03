@@ -12,8 +12,8 @@ to facilitate a broad range of mathematical and financial computations essential
 Create a Coffe-Culture-Menu with a background changing image. 
 
 ## LESSONS LEARNED:
-* Learn the basic of CSS.
-* Use CSS to set the color, font, size, and other aspects of HTML elements.
+* Master the fondamentals of HTML CSS and JavaSCript.
+* 
 
 ## SIMILAR PROJECT:
 
