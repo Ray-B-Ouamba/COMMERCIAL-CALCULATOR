@@ -27,6 +27,13 @@ Translated with DeepL.com (free version)
 
 **PARTICIPANT-REGISTRATION-FORM:** https://ray-b-ouamba.github.io/PARTICIPANT-REGISTRATION-FORM/
 
+**COFEE-CULTURE-MENU:** https://ray-b-ouamba.github.io/COFFEE-CULTURE-MENU/
+
+**COMMERCIAL-CALCULATOR:** https://ray-b-ouamba.github.io/COMMERCIAL-CALCULATOR/
+
+
+
+
 
 
 
