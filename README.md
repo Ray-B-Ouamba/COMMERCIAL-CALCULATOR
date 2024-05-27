@@ -1,6 +1,6 @@
 # COMMERCIAL-CALCULATOR
 
-1234567
+12345678
 
 to facilitate a broad range of mathematical and financial computations essential for successful operations, well-informed choices, and overall business success. 
 
